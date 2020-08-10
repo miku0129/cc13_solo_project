@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Yutaka clinic",
+    "address": "4-18-21 Yutaka-chou",
+    "word": "Shinagawa",
+    "city": "Tokyo",
+    "postal code": "142-0042"
+  },
+  {
+    "name": "Oota hospital",
+    "address": "4-4-14 Oomorihigashi",
+    "word": "Oota",
+    "city": "Tokyo",
+    "postal code": "142-0012"
+  },
+  {
+    "name": "Oomori-naka clinic",
+    "address": "1-22-2",
+    "word": "Oota",
+    "city": "Tokyo",
+    "postal code": "142-0014"
+  }
+]
