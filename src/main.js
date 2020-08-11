@@ -9,8 +9,8 @@ Vue.use(VueGoogleMaps, {
   load: {
     key: "AIzaSyDJ3sPnmTBMN1DZGJBX9gxuNg-O9mgHOAo",
     libraries: "geometry,drawing,places",
-    region: "JP",
-    language: "ja",
+    region: "JA",
+    language: "en",
   },
 });
 

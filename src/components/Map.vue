@@ -1,8 +1,8 @@
 <template>
   <div>
     <GmapMap
-      :zoom="4"
-      :center="{ lat: 37.0902, lng: -95.7129 }"
+      :zoom="10"
+      :center="{ lat: 35.658636, lng: 139.745414 }"
       map-type-id="terrain"
       style="width: 100%; height: 300px"
     >
@@ -14,7 +14,7 @@
         :type="address.type"
         :icon="address.icon"
         :clickable="true"
-        @click="center=address.position"
+        @click="center = address.position"
       />
     </GmapMap>
   </div>
