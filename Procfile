@@ -1,1 +1,1 @@
-web: node src/cryptic-sands-31767.js
+web: node server/index.js
