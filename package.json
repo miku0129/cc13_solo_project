@@ -4,7 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node server"
+    "start": "node server",
+    "build": "vue-cli-service build",
+    "hack:server": "nodemon server"
   },
   "dependencies": {
     "-": "^0.0.1",

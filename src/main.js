@@ -15,6 +15,6 @@ Vue.use(VueGoogleMaps, {
 });
 
 new Vue({
-  store,
+  // store,
   render: (h) => h(App),
 }).$mount("#app");
