@@ -1,0 +1,1 @@
+web: node src/cryptic-sands-31767.js
